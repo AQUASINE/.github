@@ -6,30 +6,6 @@ Welcome to my .github repository! This is where I plan on putting issue template
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
 
 ```math
 \ce{$\unicode[goombafont; color:red; z-index: -100; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0.2; background: url('https://github.com/AQUASINE/.github/assets/42610534/94369f1a-f71f-4621-b65b-f69a0421b39b'); pointer-events: none;]{x0000}$}
